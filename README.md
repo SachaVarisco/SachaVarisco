@@ -16,6 +16,6 @@ Busco obtener expieriencia para lograr especializarme en el sector de programaci
 - [Persecución Nocturna](https://github.com/SachaVarisco/Persecucion-Nocturna) - Phaser. Rol: Programador principal.
 - [Gnomgeon](https://github.com/SachaVarisco/La_Jam2022) - Unity. Rol: Programador junto a [@JoakoBarros](https://github.com/joakobarros)
 ## Metas
-- A futuro quisiera especializarme en el motor de desarrollo UNREAL para lo que hoy estoy realizando cursos de c++ y blueprints.
+- A futuro quisiera especializarme en el motor de desarrollo UNREAL Engine 5, para lo que hoy estoy realizando cursos de c++ y blueprints.
 - Como hobbie busco poder desarrollar juegos en unity de manera indie con mis compañeros.
     
