@@ -3,9 +3,9 @@
 
 Videogame developer student 🎮 & member of Samurai Hamster studio  🐹.
 
-
-[![HAMSTERLOGO1.png](https://i.postimg.cc/wvZxZqLv/HAMSTERLOGO1.png)](https://postimg.cc/BL5G1Gh9)
-
+<p align="center">
+  [![HAMSTERLOGO1.png](https://i.postimg.cc/wvZxZqLv/HAMSTERLOGO1.png)](https://postimg.cc/BL5G1Gh9)
+</p>
 
 Desde 2021 estoy cursando la licenciatura en producción de videojuegos en la universidad nacional de Rafaela (UNRAF), donde tambien participo como adscripto en la catedra de programación.
 Busco obtener expieriencia para lograr especializarme en el sector de programación de videojuegos.
